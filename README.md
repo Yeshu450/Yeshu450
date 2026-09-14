@@ -78,6 +78,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Yeshu450&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>  
+
+<div align="center"> 
   <img src="https://streak-stats.demolab.com/?user=Yeshu450&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
@@ -89,7 +92,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yeshu450&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Yeshu450&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
 
@@ -103,7 +106,7 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=yeshu450&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Yeshu450&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
 </div>
 
 ---
